@@ -174,3 +174,5 @@ the panel powers up, redraws over ~2.7 s, then powers back down).
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+_Published through the Gatekeeper, 2026-11-02._
